@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginActivator", "PluginActivator\PluginActivator.csproj", "{440EC6AD-8A1D-483D-9576-E40F9FA20F40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{440EC6AD-8A1D-483D-9576-E40F9FA20F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{440EC6AD-8A1D-483D-9576-E40F9FA20F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{440EC6AD-8A1D-483D-9576-E40F9FA20F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{440EC6AD-8A1D-483D-9576-E40F9FA20F40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBC57C50-8D74-498F-96F8-567CE3EC3B31}
+	EndGlobalSection
+EndGlobal
